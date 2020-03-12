@@ -1,4 +1,4 @@
-#  Kittyhawk Coding Challenge 
+#  Kittyhawk Coding Challenge !
 
 ## Overview
 Kittyhawk processes a lot of data from various different places. Whether it's manually entered user data or programmatic data we capture from the drone itself, we're often operating on it. Not only are we collecting and processing large sums of data, but we're frequently adding valuable insight to it. For example, it's very handy to have the weather that a flight occurred in and very handy to have the airspace that it occurred in.
